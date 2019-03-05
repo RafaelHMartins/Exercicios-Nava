@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551706958 source:c:\users\rafael\desktop\exercicios de estrutura de dados\todas as strings\lista 22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+
